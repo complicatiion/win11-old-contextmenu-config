@@ -4,6 +4,7 @@ Save "win11-old-contextmenu-config.reg" to your Windows 11 PC and run it.
 Enjoy classic Windows 10 context menu in Windows 11.
 
 Restoration:
+
 Save "win11-old-contextmenu-confi-restorationg.reg" to your Windows 11 PC and run it.
 Removes the above in11-old-contextmenu-config.reg key entry in Registry and restores the modern Win 11 context menu.
 
