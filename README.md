@@ -7,7 +7,7 @@ Restoration:
 Save "win11-old-contextmenu-confi-restorationg.reg" to your Windows 11 PC and run it.
 Removes the above in11-old-contextmenu-config.reg key entry in Registry and restores the modern Win 11 context menu.
 
-License
+License:
 
 This project uses a dual licensing model:
 
